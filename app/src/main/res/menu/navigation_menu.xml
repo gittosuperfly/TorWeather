@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_item_dinwei"
+        android:icon="@mipmap/ic_dinwen"
+        android:title="重新定位" />
+    <item
+        android:id="@+id/menu_item_fenxiang"
+        android:icon="@mipmap/ic_fenxiang"
+        android:title="分享" />
+    <item
+        android:id="@+id/menu_item_guanyu"
+        android:icon="@mipmap/ic_guanyu"
+        android:title="关于" />
+    <item
+        android:id="@+id/menu_item_tuichu"
+        android:icon="@mipmap/ic_guanbi"
+        android:title="退出" />
+</menu>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="50dp">
+    <ImageView
+        android:src="@mipmap/time_icon"
+        android:layout_marginLeft="8dp"
+        android:layout_width="35dp"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:textSize="16dp"
+        android:id="@+id/time_list_text"
+        android:gravity="center"
+        android:layout_weight="8"
+        android:textColor="#555555"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:src="@mipmap/tianqi_icon"
+        android:layout_width="35dp"
+        android:layout_height="match_parent" />
+    <TextView
+        android:textSize="16dp"
+        android:textColor="#555555"
+        android:id="@+id/tianqi_list_text"
+        android:gravity="center_vertical|left"
+        android:layout_weight="9"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:src="@mipmap/wendu_icon"
+        android:layout_width="35dp"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:textSize="16dp"
+        android:textColor="#555555"
+        android:id="@+id/wendu_list_text"
+        android:gravity="center_vertical|left"
+        android:layout_weight="9"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">洋葱天气</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="jianjie">\n洋葱天气\n\n一个不断完善的小作品\n</string>
+    <string name="thanks">\n感谢和风天气提供的数据\n\n以及夏总的项目作为参考\n\n夏总的Github：TotoroXkf\n</string>
+    <string name="my">\n我的Github：gittosuperfly\n\n博客：supercai.top\n</string>
+</resources>
